@@ -12,6 +12,9 @@
 ### «Python для геймеров: базовый курс на игровых примерах»
 ![Сертификат](images/Sert_Python_Kolesnikova.png)
 
+### «Поколение Python: курс для продвинутых» — Stepik, 2026
+![Сертификат](images/Sert_Python_Guev_prod.png)
+
 ---
 
 ## Автоматизация и AI
